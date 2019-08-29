@@ -1,7 +1,7 @@
 # AI-BRASIL - Hotmilk
 
 Conteúdo apresentado no Meetup realizado na Hotmilk Aceleradora de Startups (Curitiba - PR/Brasil)
-em parceria com a PhoneTrack (https://phonetrack.com.br)
+em parceria com a [PhoneTrack](https://phonetrack.com.br)
 
 **Dependências:**
 
